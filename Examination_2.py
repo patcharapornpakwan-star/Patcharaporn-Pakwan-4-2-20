@@ -4,6 +4,7 @@
 # Output: พิมพ์ "Eligible" หากอายุตั้งแต่ 18 ปีขึ้นไป หรือ "Not Eligible" หากน้อยกว่า 18 ปี
 # ==========================================
 
-
-# นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-age = int(input())
+age = int(input("อายุ"))
+ print("Eligible"(>=18))
+elif = int(input("อายุ"))
+ print("not Eligible"(<18))
