@@ -6,7 +6,7 @@
 # ==========================================
 
 
-speed = int(input("ความเร็วรถ"))
-lf score = int(input("ความเร็ว"))
- elifv = int(input(<=60))
- print = (>90)
+c = float(input("อุณหภูมิองศาเซลเซียส"))
+ print = int(input(จำนวนเต็ม))
+lf scoer ( C \times 1.8) +32$
+ elif(อุุณหภูมิองศาฟาเรนไฮต์)
